@@ -52,7 +52,6 @@ A window should briefly appear that says something like "Wineskin is currently b
 
 Go through the Steam install wizard until you reach a window like this:
 
-[COMPLETING STEAM SETUP]
 ![Completing steam setup](pics/pic9.png?raw=true "Completing steam setup")
 
 Make sure "Run Steam" is checked, and hit finish.
@@ -75,7 +74,6 @@ After you're logged in, a small window will appear:
 
 Click on the tiny steam icon and then select Rivals of Aether from your library. Install that baby!
 
-[STEAM ROA INSTALL]
 ![Steam RoA install](pics/pic14.png?raw=true "Steam RoA install")
 
 You can re-select RoA from the tiny steam icon to monitor the game's progress.
@@ -100,7 +98,7 @@ Rename the alias whatever you want and then drag it to the desktop!
 
 The next time you start up Steam on this computer, Steam should pop up correctly:
 
-![Steam RoA](pics/pic1.png?raw=true "Steam RoA")
+![Steam RoA](pics/pic19.png?raw=true "Steam RoA")
 
 ## 6. Notes:
 + Gamecube controller support works out-of-the-box with Mayflash adapters. In my experience it only works if the adapter is already plugged in and set to PC mode before you start up the game. The black USB port is for data and the grey one is for rumble, so if you can only plug in one, do the black one.
