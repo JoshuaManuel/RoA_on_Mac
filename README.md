@@ -9,6 +9,15 @@ Given how close Mac and Linux are internally, this guide might be useful for tho
 Finally, this guide is for people who have already bought RoA on Steam and want to play it on Mac. I won't show you how to get the game for free (I don't even know how to do it).
 
 Bottom line: if you want the game, support the developers!
+
+## Overview:
+1. Downloads
+2. Creating a Wineskin Wrapper
+3. Installing Steam
+4. Installing Rivals of Aether
+5. Cleanup
+6. Notes
+
 ## 1. Downloads:
 + [Wineskin Winery](https://sourceforge.net/projects/wineskin/files/Wineskin%20Winery.app%20Version%201.7.zip/download)
     + Wine is a compatibility layer that allows Windows programs to run on Unix-like (aka Mac and Linux) operating systems.
@@ -101,5 +110,5 @@ The next time you start up Steam on this computer, Steam should pop up correctly
 ![Steam RoA](pics/pic19.png?raw=true "Steam RoA")
 
 ## 6. Notes:
-+ Gamecube controller support works out-of-the-box with Mayflash adapters. In my experience it only works if the adapter is already plugged in and set to PC mode before you start up the game. The black USB port is for data and the grey one is for rumble, so if you can only plug in one, do the black one.
-+ Sometimes the game doesn't scale correctly when going fullscreen. The most reliable fix I've found is maximizing/resizing only once you're at the title screen.
++ Gamecube controller support works out-of-the-box with **Mayflash adapters**. In my experience it only works if the adapter is already plugged in and set to PC mode before you start up the game. **The black USB port is for data** and the grey one is for rumble, so if you can only plug in one, do the black one.
++ Sometimes the game **doesn't scale correctly when going fullscreen**. Set the game size through RoA's graphics options to **x2 or x3** and then restart. x2 works perfectly for me.
